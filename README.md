@@ -1,3 +1,5 @@
+> **Archived.** This project now lives in the XCore monorepo, in [`libs/cloud-mindustry`](https://github.com/XCore-mindustry/xcore/tree/main/libs/cloud-mindustry). Releases continue there with the same package coordinates, tagged `cloud-mindustry/vX.Y.Z`. Report issues and send pull requests to the monorepo.
+
 # cloud-mindustry
 
 [![Build](https://github.com/XCore-mindustry/cloud-mindustry/actions/workflows/build.yml/badge.svg)](https://github.com/XCore-mindustry/cloud-mindustry/actions/workflows/build.yml)
